@@ -3,5 +3,5 @@ pandas==1.4.3
 lxml== 4.9.1
 numpy==1.23.2
 seaborn== 0.11.2
-matplotlib
+matplotlib== 3.5.3
 base58
